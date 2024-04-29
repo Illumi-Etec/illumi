@@ -9,7 +9,7 @@
         $team = array(
             array(
                 "name" => "Marley Santos",
-                "photo" => "assets/images/team/Marley-Santos.jpeg",
+                "photo" => "assets/images/team/Marley-Santos.png",
                 "role" => "Desenvolvedor Front-end",
                 "LinkedIn" => "https://www.linkedin.com/in/marleysantos/",
                 "Instagram" => "https://instagram.com/marleysantos4390/",
@@ -18,36 +18,36 @@
 
             array(
                 "name" => "Milena Oliveira",
-                "photo" => "assets/images/team/Milena-Oliveira.jpeg",
+                "photo" => "assets/images/team/Milena-Oliveira.png",
                 "role" => "Analista",
-                "LinkedIn" => "#",
-                "Instagram" => "#",
-                "Github" => "#"
+                "LinkedIn" => "https://linkedin.com/",
+                "Instagram" => "https://instagram.com/",
+                "Github" => "https:/github.com/"
             ),
 
             array(
                 "name" => "Mariana Moreira",
-                "photo" => "assets/images/team/Mariana-Moreira.jpeg",
+                "photo" => "assets/images/team/Mariana-Moreira.png",
                 "role" => "DBA",
-                "LinkedIn" => "#",
-                "Instagram" => "#",
-                "Github" => "#"
+                "LinkedIn" => "https://linkedin.com/",
+                "Instagram" => "https://instagram.com/",
+                "Github" => "https://github.com/"
             ),
 
             array(
                 "name" => "Renan Teixeira",
                 "photo" => "assets/images/team/Renan-Teixeira.png",
                 "role" => "Gerente de Projetos",
-                "LinkedIn" => "#",
+                "LinkedIn" => "https://linkedin.com/",
                 "Instagram" => "https://instagram.com/renan.teixx/",
                 "Github" => "https://github.com/RenanCT2004/"
             ),
 
             array(
                 "name" => "Felipe Felix",
-                "photo" => "assets/images/team/Felipe-Felix.jpeg",
+                "photo" => "assets/images/team/Felipe-Felix.png",
                 "role" => "Designer",
-                "LinkedIn" => "#",
+                "LinkedIn" => "https://linkedin.com/",
                 "Instagram" => "https://www.instagram.com/felix_fl_/",
                 "Github" => "https://github.com/FelipeFLX/"
             ),
@@ -55,7 +55,7 @@
             array(
 
                 "name" => "Matheus Gomes",
-                "photo" => "assets/images/team/Matheus-Gomes.jpeg",
+                "photo" => "assets/images/team/Matheus-Gomes.png",
                 "role" => "Dev Front-end",
                 "LinkedIn" => "#",
                 "Instagram" => "#",
@@ -91,29 +91,29 @@
 
             array(
                 "name" => "Kauã Barbosa",
-                "photo" => "assets/images/team/Kauã-Barbosa.jpeg",
+                "photo" => "assets/images/team/Kauã-Barbosa.png",
                 "role" => "Dev Back-end",
-                "LikedIn" => "#",
+                "LinkedIn" => "https://linkedin.com/",
                 "Instagram" => "https://www.instagram.com/kkaua.barbosa/",
                 "Github" => "https://github.com/Kazuto15/"
             ),
 
             array(
                 "name" => "Vitor Mota",
-                "photo" => "assets/images/team/Vitor-Mota.jpeg",
+                "photo" => "assets/images/team/Vitor-Mota.png",
                 "role" => "Designer",
-                "LinkedIn" => "#",
-                "Instagram" => "#",
-                "Github" => "#"
+                "LinkedIn" => "https://linkedin.com/",
+                "Instagram" => "https://instagram.com/",
+                "Github" => "https://github.com/"
             ),
 
             array(
                 "name" => "Heitor Oliveira",
-                "photo" => "assets/images/team/Heitor-Oliveira.jpeg",
+                "photo" => "assets/images/team/Heitor-Oliveira.png",
                 "role" => "DBA",
-                "LinkedIn" => "#",
-                "Instagram" => "#",
-                "Github" => "#"
+                "LinkedIn" => "https://linkedin.com/",
+                "Instagram" => "https:/instagram.com/",
+                "Github" => "https://github.com/"
             )
         );
 

@@ -187,9 +187,9 @@
 
 				<div class="card-proj">
 					<a href="#" class="imagem-projeto" target="_blank" title="Acessar o Litera">
-						<img src="assets/images/Litera-removebg-preview.png" alt="">
+						<img src="assets/images/Design sem nome.png" alt="">
 						<div class="contnet">
-							<p>Litera - Alfabetização</p>
+							<p>Litera</p>
 						</div>
 					</a>
 				</div>

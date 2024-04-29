@@ -1,0 +1,20 @@
+/* Fontes tipográficas */
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url(../fonts/Kanit/Kanit-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Open-Sans';
+    src: url(../fonts/Open-Sans/Open\ Sans\ regular.ttf);
+}
+
+@font-face {
+    font-family: 'DM-Sans';
+    src: url(../fonts/DM-Sans/DM\ Sans\ regular.ttf);
+}
