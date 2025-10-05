@@ -38,9 +38,3 @@ Illumi Soluções Digitais LTDA é uma empresa que transforma ideias em soluçõ
 - JavaScript e jQuery  
 - Biblioteca Slick para carrossel  
 - FontAwesome para ícones  
-
-## 💻 Como Rodar Localmente
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/Illumi-Etec/illumi.git
