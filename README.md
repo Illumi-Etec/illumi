@@ -38,8 +38,6 @@ Illumi Soluções Digitais LTDA é uma empresa que transforma ideias em soluçõ
 - JavaScript e jQuery  
 - Biblioteca Slick para carrossel  
 - FontAwesome para ícones  
-- Servidor Apache (ex: XAMPP)  
-- Banco de dados MySQL (não mostrado no index, mas presumido)
 
 ## 💻 Como Rodar Localmente
 
